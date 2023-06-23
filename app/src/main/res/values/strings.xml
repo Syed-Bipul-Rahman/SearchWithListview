@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ListviewNsearch</string>
+    <string-array name="programming_language">
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>C</item>
+        <item>Objective C</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>R</item>
+        <item>Ruby</item>
+        <item>Kotlin</item>
+        <item>Dart</item>
+        <item>Flatter</item>
+        <item>PHP</item>
+        <item>Laravel</item>
+        <item>Electron js</item>
+        <item>React js</item>
+        <item>Html</item>
+        <item>Css</item>
+        <item>Jquery</item>
+        <item>Ajax</item>
+        <item>Swift</item>
+        <item>C++</item>
+        <item>Go</item>
+        <item>TypeScript</item>
+        <item>Scala</item>
+        <item>Shell</item>
+        <item>Perl</item>
+        <item>Haskell</item>
+        <item>Visual Basic .NET</item>
+        <item>Delphi</item>
+        <item>MATLAB</item>
+        <item>Tensorflow</item>
+        <item>Pytourch</item>
+        <item>Namepy</item>
+        <item>Vule gasi</item>
+        <item>Lua</item>
+        <item>Rust</item>
+
+    </string-array>
+</resources>
